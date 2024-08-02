@@ -4,13 +4,19 @@
 
 h1{
   padding: 0 10px;
+  text-align: center;
+  background-color:cadetblue
 }
 
+.links{
+  text-align: center;
+}
 a{
   text-decoration: none;
   color: cadetblue;
   padding: 0 10px;
   font-style: italic;
+  
 }
 
 a:hover{
