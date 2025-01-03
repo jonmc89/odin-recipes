@@ -1,0 +1,1 @@
+Odin Project Fundamentals Project, this is to practice HTML basics.
