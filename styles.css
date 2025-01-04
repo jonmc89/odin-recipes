@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+/* Header Stylings */
+
+header{
+    background-color: coral;
+    padding: 10px;
+    
+}
+
+.page_title{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.links{
+    text-decoration: NONE;
+    color: black;
+    margin-right: 15px;
+}
+
+.links:hover{
+    color: white;
+}
+
+.links:active{
+    color: black;
+}
+
+/* Page Styling */
+
+.hero{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.food_pic{
+    margin-bottom: 20px;
+}
+
+.main{
+    margin-left: 40px;
+    padding: 25px;
+}
+
+.ingredients_header{
+    margin-bottom: 10px;
+}
+
+.ingredients_list li{
+    margin-bottom: 10px;
+}
+
+.ingredients_list li:last-child{
+    margin-bottom: 30px;
+}
+
+.method_header{
+   margin-bottom: 10px;
+}
+
+.method_list li{
+    margin-bottom: 10px;
+}
+
+.method_list li:last-child{
+    margin-bottom: 30px;
+}
